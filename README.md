@@ -3,3 +3,11 @@ I M ADDING RANDOM STJUFF TAKE THIS GITHUB
 SFJDSFJDSKFKJDSFJKDSFKJSDJFKSJFJKDSFKJDSF
 
 REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+
+
+To actually make changes
+
+"git add ."
+"git commit -m "updates done by...""
+"git push"
