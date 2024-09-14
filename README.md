@@ -1,13 +1,7 @@
 # test_project
-I M ADDING RANDOM STJUFF TAKE THIS GITHUB 
-SFJDSFJDSKFKJDSFJKDSFKJSDJFKSJFJKDSFKJDSF
+This is a test project to use for game programming and to learn how to use CLI git commands
 
-REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-
-
-
-To actually make changes
-
+Making changes:
 "git add ."
 "git commit -m "updates done by...""
 "git push"
